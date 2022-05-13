@@ -360,3 +360,11 @@ html, body {
   .panel-header {
       color: rgb(29, 29, 54);
   }
+
+  .card-img-top {
+      max-height: 600px;
+  }
+
+  .news-area {
+    box-shadow: 3.801px 12.432px 38px 0 rgba(116, 124, 145, 0.26);
+  }
