@@ -363,6 +363,8 @@ html, body {
 
   .panel-area {
       background: rgb(227, 245, 235);
+      border: 2px solid #1c9650;
+      border-radius: 5px;
   }
 
   /* .news-show-area {
