@@ -349,14 +349,6 @@ html, body {
       padding-bottom: 40px;
   }
 
-  .panel-area {
-      border: 2px solid grey;
-      border-radius: 5px;
-      padding: 20px;
-      position:relative;
-      overflow:hidden;
-  }
-
   .panel-header {
       color: rgb(29, 29, 54);
   }
@@ -367,4 +359,8 @@ html, body {
 
   .news-area {
     box-shadow: 3.801px 12.432px 38px 0 rgba(116, 124, 145, 0.26);
+  }
+
+  .panel-area {
+      background: rgb(205, 241, 221);
   }
